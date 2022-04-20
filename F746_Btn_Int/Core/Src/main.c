@@ -25,6 +25,7 @@ int main(void)
 	}
 }
 
+
 void GPIO_Config (void) {
 	/************ STEPS FOLLOWED ***********
 	1. Enable the GPIO CLOCK
